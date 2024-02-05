@@ -1,16 +1,8 @@
 # observer_design_pattern_dart
 
-A new Flutter project.
+- Observer Design Pattern, nesne odaklı programlamada yaygın olarak kullanılan bir tasarım desenidir.
+- Bu desen, birbiriyle ilişkili olan iki nesne türü arasındaki iletişimi yönetmek için kullanılır.
+- Bir nesne (Subject, Konu) durumunda bir değişiklik olduğunda, bu değişiklik diğer nesnelere (Observer, Gözlemci) bildirilir.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1](https://github.com/kursat-ozturk/observer_design_pattern_dart/assets/69029656/bc33dd49-3eda-4ac7-b518-bc6299bf40e7)  ![Screenshot_2](https://github.com/kursat-ozturk/observer_design_pattern_dart/assets/69029656/3d601369-a944-4967-8f35-b7cebbc2d4bf)
